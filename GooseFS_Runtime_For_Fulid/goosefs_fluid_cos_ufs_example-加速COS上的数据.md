@@ -3,8 +3,8 @@
 
 - [Fluid](https://github.com/fluid-cloudnative/fluid)(version >= 0.6.0)
   
-- 请参考[安装文档](./jindo_fluid_install.md)完成安装
-## 创建 dataset 和 GooseFSRuntime
+- 请参考[安装文档](../introduction/goosefs_fluid_install-安装文档.md)完成安装
+## 创建 Dataset 和 GooseFSRuntime
 
 
 创建一个 resource.yaml 文件里面包含两部分：
