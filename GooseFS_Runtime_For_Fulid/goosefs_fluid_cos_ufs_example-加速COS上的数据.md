@@ -3,7 +3,7 @@
 
 - [Fluid](https://github.com/fluid-cloudnative/fluid)(version >= 0.6.0)
   
-- 请参考[安装文档](../introduction/goosefs_fluid_install-安装文档.md)完成安装
+- 请参考[安装文档](../Introduction/goosefs_fluid_install-安装文档.md)完成安装
 ## 创建 Dataset 和 GooseFSRuntime
 
 
